@@ -1,4 +1,4 @@
-# colleage-examination-system   (oop 2th year 2020/2021)
+# colleage-examination-system   (oop)
 This system contains the following modules:   
 1. Administrative Module
    a) Admin has username and password and can alter them.
